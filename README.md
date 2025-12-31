@@ -1,4 +1,5 @@
-# Delta Force: Gun Configurator  
+# Delta Force: Gun Configurator
+
 ### 三角洲行动改枪推荐器
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
@@ -29,15 +30,16 @@
 👉 **[DeltaGunTool.exe (Windows)](https://github.com/yourname/DeltaGunTool/releases/latest)**
 
 > 💡 **使用说明**：  
+> 
 > 1. 下载 `DeltaGunTool.exe`  
 > 2. 双击运行  
 > 3. 选择地图 → 选择枪械 → 选择战斗风格 → 生成推荐！
 
 ## 🖼️ 截图示例
 
-| 中文界面 | 英文界面 |
-|---------|---------|
-| ![Chinese](screenshot_zh.png) | ![English](screenshot_en.png) |
+| 中文界面                                                                                  | 英文界面                                                                                  |
+| ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
+| <img title="" src="file:///D:/works/tools/DeltaGunTool/DTF01.png" alt="" width="564"> | <img src="file:///D:/works/tools/DeltaGunTool/DTF03.png" title="" alt="" width="546"> |
 
 > 📌 **提示**：首次运行如遇安全警告，点击“更多信息” → “仍要运行”即可（无联网、无病毒）。
 
@@ -53,7 +55,8 @@
 
 ---
 
-# Delta Force: Gun Configurator  
+# Delta Force: Gun Configurator
+
 ### A Tactical Loadout Recommender for Delta Force: Hawk Ops
 
 > **Map-aware · Multilingual · Offline · Portable**  
@@ -78,15 +81,16 @@
 👉 **[DeltaGunTool.exe (Windows)](https://github.com/yourname/DeltaGunTool/releases/latest)**
 
 > 💡 **How to Use**:  
+> 
 > 1. Download `DeltaGunTool.exe`  
 > 2. Double-click to run  
 > 3. Select Map → Weapon → Playstyle → Generate!
 
 ## 🖼️ Screenshots
 
-| Chinese UI | English UI |
-|-----------|-----------|
-| ![Chinese](screenshot_zh.png) | ![English](screenshot_en.png) |
+| Chinese UI                                 | English UI                                 |
+| ------------------------------------------ | ------------------------------------------ |
+| ![](D:\works\tools\DeltaGunTool\DTF02.png) | ![](D:\works\tools\DeltaGunTool\DTF04.png) |
 
 > 📌 **Note**: If Windows SmartScreen warns you, click "More info" → "Run anyway" (the app is safe and offline).
 
